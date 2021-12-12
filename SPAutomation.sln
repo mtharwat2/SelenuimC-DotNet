@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31728.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartPatrolFramework", "SPAutomation\SmartPatrolFramework.csproj", "{B9F2DB0D-1931-43B5-9A74-26D79331285F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartPatrol", "SmartPatrol\SmartPatrol.csproj", "{48872859-CB57-4C76-80EC-517DD205C38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F2DB0D-1931-43B5-9A74-26D79331285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F2DB0D-1931-43B5-9A74-26D79331285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F2DB0D-1931-43B5-9A74-26D79331285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F2DB0D-1931-43B5-9A74-26D79331285F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48872859-CB57-4C76-80EC-517DD205C38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48872859-CB57-4C76-80EC-517DD205C38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48872859-CB57-4C76-80EC-517DD205C38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48872859-CB57-4C76-80EC-517DD205C38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E379F4-70AF-4A61-8621-44377A3429CA}
+	EndGlobalSection
+EndGlobal
